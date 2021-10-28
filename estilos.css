@@ -1,0 +1,33 @@
+h1{color: rgb(0, 0, 0);background-color: darkred;
+text-align-last: center;
+color: rgb(255, 255, 255);
+margin-left: 55px;
+margin-right: 55px;}
+
+h2{color: rgb(255, 255, 255);background-color: darkred;
+    width: 250px;;
+    height: 60px;
+    text-align: center;
+margin-left: 550px;}
+
+body{font-style:normal; background-color: black;
+text-align: center;
+color: aliceblue;}
+
+video {margin-left: 55px;}
+
+img{width: 900px;;
+    height: 450px;}
+
+
+    ul{
+        background-color: rgba(255, 0, 0, 0.774);
+        text-emphasis-color: black;
+        text-shadow: black;
+            width: 40;
+            height: 50px;
+            position:static;
+            text-align:center;
+        display:block;
+        }
+        
